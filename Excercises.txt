@@ -1,0 +1,12 @@
+Excercises
+
+1.A Terminal is an interface that allows you to send text commands to your computer to execute 
+commands.
+
+2.Git is a version control tool that allows a user to manage a project's source code history.
+Github is a git project hosting service, that allows you and others to callaborate on projects.
+
+3. We use Github because it allows easy access to callaborate on projects with our teammates
+from anywhere. It also gives our teammembers the abilty to merge there parts of the code 
+on to the project. It's a great place to keep multiple projects so that jobs can look at our
+portfolio and look at our code without us having to send them any files. 
